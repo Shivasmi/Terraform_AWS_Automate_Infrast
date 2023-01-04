@@ -16,6 +16,7 @@ This is how it looks my AWS account EC2, VPC dashboard before i apply my terrafo
 
 
 
+
 After i apply terraform code my AWS dashboad looks like this. With 
 
 
