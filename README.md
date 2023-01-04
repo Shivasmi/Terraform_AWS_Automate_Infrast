@@ -6,10 +6,19 @@ Terraform is a robust technology to deploy and automate infrastructure as code f
 Prerequisite: 
 To follow this you need cloud service provider account, here i am using AWS, a text editor here i am using VScode and terraform install in your local machine. 
 
-This is how it looks my AWS account EC2, VPC dashboard before i apply my terraform code. <img width="1367" alt="image1" src="https://user-images.githubusercontent.com/89212813/210152975-c810334e-a10a-4bcd-ac4d-bc8f430a867f.png">
+
+
+This is how it looks my AWS account EC2, VPC dashboard before i apply my terraform code. 
+
+<img width="1367" alt="image1" src="https://user-images.githubusercontent.com/89212813/210152975-c810334e-a10a-4bcd-ac4d-bc8f430a867f.png">
 ![image2](https://user-images.githubusercontent.com/89212813/210152976-d7e10570-9389-4538-b141-fa325a4f08d7.jpg)
 
-After i apply terraform code my AWS dashboad looks like this. 
+
+
+
+After i apply terraform code my AWS dashboad looks like this. With 
+
+
 ![image5](https://user-images.githubusercontent.com/89212813/210152994-3dbc6b63-cc8f-44da-b9de-cfc131fa25a6.jpg)
 ![image6](https://user-images.githubusercontent.com/89212813/210152999-e0e7d5f3-9a2f-43f1-9f61-3bad6bbc8a87.jpg)
 ![image7](https://user-images.githubusercontent.com/89212813/210153004-41f01431-a124-4173-bd10-8e9c5b72ec88.jpg)
